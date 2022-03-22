@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://buku-master-hk.github.io/selasa-5/sitemap.xml
